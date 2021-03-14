@@ -1,0 +1,22 @@
+{
+  "name": "prozorro_auto_cypress",
+  "version": "1.0.0",
+  "description": "automated test framework for prozorro.sale project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c4lifa/prozorro_auto_cypress.git"
+  },
+  "author": "c4lifa/4my",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c4lifa/prozorro_auto_cypress/issues"
+  },
+  "homepage": "https://github.com/c4lifa/prozorro_auto_cypress#readme",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}

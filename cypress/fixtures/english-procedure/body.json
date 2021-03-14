@@ -1,0 +1,224 @@
+{
+  "auctionPeriod": {
+    "startDate": "2021-03-15T00:08:00+00:00"
+  },
+  "sellingMethod": ["dgf-english", "dgf-english-fast", "dgf-english-fast-manual", "dgf-english-fast-auction-manual-qualification", "dgf-english-initial-auction", "dgf-english-initial-auction-manual", "dgf-english-initial-qualification", "dgf-english-initial-qualification-prod"],
+  "sellingEntity": {
+    "identifier": {
+      "scheme": "UA-IPN",
+      "legalName": {
+        "uk_UA": "string",
+        "en_US": "string"
+      },
+      "id": "1234563378"
+    },
+    "address": {
+      "addressID": {
+        "scheme": "koatuu",
+        "id": "0110136600"
+      },
+      "streetAddress": {
+        "uk_UA": "string",
+        "en_US": "string"
+      },
+      "locality": {
+        "uk_UA": "string",
+        "en_US": "string"
+      },
+      "region": {
+        "uk_UA": "Автономна Республіка Крим",
+        "en_US": "string"
+      },
+      "countryName": {
+        "uk_UA": "Україна"
+      }
+    },
+    "contactPoint": {
+      "email": "Tadmin@example.com",
+      "telephone": "+380123456789",
+      "name": {
+        "uk_UA": "string",
+        "en_US": "string"
+      },
+      "url": "http://string.com"
+    },
+    "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+  },
+  "lotId": "sd",
+  "title": {
+    "uk_UA": "<script>document.body.style.backgroundColor='#f3f3f3'; alert('test');</script>",
+    "en_US": "string"
+  },
+  "description": {
+    "uk_UA": "string",
+    "en_US": "string"
+  },
+  "decision": {
+    "decisionId": "string",
+    "decisionDate": "2020-11-04T17:28:58.265Z"
+  },
+  "bankAccount": [
+    {
+      "bankName": {
+        "uk_UA": "string",
+        "en_US": "string"
+      },
+      "description": {
+        "uk_UA": "string",
+        "en_US": "string"
+      },
+      "accountIdentifications": [
+        {
+          "scheme": "UA-IBAN",
+          "id": "As223323232378678905467894323"
+        }
+      ]
+    }
+  ],
+  "x_documentRequirements": {
+    "uk_UA": "string",
+    "en_US": "string"
+  },
+  "x_additionalInformation": {
+    "uk_UA": "string",
+    "en_US": "string"
+  },
+  "value": {
+    "currency": "UAH",
+    "amount": 3333.444,
+    "valueAddedTaxIncluded": true
+  },
+  "guarantee": {
+    "currency": "UAH",
+    "amount": 2.33,
+    "valueAddedTaxIncluded": true
+  },
+
+  "tenderAttempts": 2,
+  "virtualDataRoom": "http://virtial-data-room.com/id_of_room",
+  "eligibilityCriteria": "eligibilityCriteria",
+  "accessDetails": {
+    "uk_UA": "ssss"
+  },
+  "previousAuctionId": "UA-EA-4545-34-45-000000-Q",
+  "items": [
+
+    {
+      "description": {
+        "uk_UA": "<script>document.body.style.backgroundColor='#f3f3f3'; alert('test');</script>",
+        "en_US": "string"
+      },
+      "classification": {
+        "scheme": "CAV",
+        "id": "34120000-4"
+      },
+      "unit": {
+        "code": "H87"
+      },
+      "quantity": 11.1126,
+      "address": {
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "streetAddress": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "locality": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "region": {
+          "uk_UA": "Автономна Республіка Крим",
+          "en_US": "string"
+        },
+        "postalCode": "string",
+        "countryName": {
+          "uk_UA": "Україна"
+        }
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "CPVS",
+          "id": "QB49-3"
+        }
+      ],
+
+      "location": {
+        "latitude": "string",
+        "longitude": "string",
+        "elevation": "string"
+      },
+      "registrationDetails": {
+        "registrationStatus": "unknown",
+        "registrationID": "as",
+        "registrationDate": "1969-01-01T00:00:01.000000Z"
+      },
+      "itemProps": {
+        "brand": "sdsd"
+      }
+    },
+
+    {
+      "description": {
+        "uk_UA": "<script>document.body.style.backgroundColor='#f3f3f3'; alert('test');</script>",
+        "en_US": "string"
+      },
+      "classification": {
+        "scheme": "CAV",
+        "id": "07226000-9"
+      },
+      "unit": {
+        "code": "H87"
+      },
+      "quantity": 11.1126,
+      "address": {
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "streetAddress": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "locality": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "region": {
+          "uk_UA": "Автономна Республіка Крим",
+          "en_US": "string"
+        },
+        "postalCode": "string",
+        "countryName": {
+          "uk_UA": "Україна"
+        }
+      },
+      "additionalClassifications": [
+        {
+          "scheme": "CPVS",
+          "id": "QB49-3"
+        }
+      ],
+
+      "location": {
+        "latitude": "string",
+        "longitude": "string",
+        "elevation": "string"
+      },
+      "registrationDetails": {
+        "registrationStatus": "unknown",
+        "registrationID": "as",
+        "registrationDate": "1969-01-01T00:00:01.000000Z"
+      }
+    }
+
+  ],
+  "minimalStep": {
+    "currency": "UAH",
+    "amount": 10,
+    "valueAddedTaxIncluded": true
+  },
+  "dgfPublicAssetCertificate": "https://www.fg.gov.ua/lot/164489"
+}
