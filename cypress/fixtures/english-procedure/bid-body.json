@@ -1,0 +1,43 @@
+{
+  "bidders": [
+    {
+      "identifier": {
+        "id": "2343339323",
+        "scheme": "UA-IPN-FOP",
+        "legalName": {
+          "uk_UA": "ЕДРПОУ",
+          "en_US": "EDRPOU"
+        }
+      },
+      "address": {
+        "streetAddress": {
+          "uk_UA": "Хрещатик, 43a",
+          "en_US": "Khreschatyk, 43a"
+        },
+        "locality": {
+          "uk_UA": "Київ",
+          "en_US": "Kyiv"
+        },
+        "region": {
+          "uk_UA": "Київ",
+          "en_US": "Kyiv"
+        },
+        "postalCode": "01001",
+        "countryName": {
+          "uk_UA": "Україна",
+          "en_US": "Ukraine"
+        }
+      },
+      "contactPoint": {
+        "name": {
+          "uk_UA": "Адміністратор2",
+          "en_US": "Admin2"
+        },
+        "telephone": "+380996872350",
+        "faxNumber": "+380996872350",
+        "email": "admin@example.com"
+      }
+    }
+  ],
+  "status": "deleted"
+}
