@@ -4,5 +4,7 @@ export interface Body {
     acc_token: string,
     spec: object,
     participationUrl: string,
+    bids: Array<object>,
+
 
 }

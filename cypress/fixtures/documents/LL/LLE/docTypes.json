@@ -1,0 +1,10 @@
+{
+  "procedure_active_rectification": ["illustration", "notice", "technicalSpecifications", "evaluationCriteria", "contractProforma", "x_presentation", "x_itemPlan", "x_approvedDocument", "x_agreementCopy", "x_leaseObjectInformation", "x_assessmentDocument", "x_currentTenantDocument", "digitalSignature"],
+  "procedure_edit_active_rectification": ["clarifications", "digitalSignature"],
+  "procedure_cancellation": ["cancellationDetails", "digitalSignature"],
+  "bid_active_tendering": ["commercialProposal", "qualificationDocuments", "x_passport", "x_tenderersRegisterExtract", "x_nonResidentRegistrations", "x_registrationFeeApproval", "x_guaranteeApproval", "х_ultimateBeneficiaryInfo", "digitalSignature"],
+  "bid_active_qualification": ["auctionProtocol", "digitalSignature"],
+  "award_active_qualification": ["auctionProtocol"],
+  "award_active_qualification_active_awarded": ["rejectionProtocol", "act", "digitalSignature"],
+  "contract_active_awarded": ["contractNotice", "contractSigned", "transferAct", "contractAnnexe", "digitalSignature"]
+}
