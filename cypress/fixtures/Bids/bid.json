@@ -1,0 +1,81 @@
+{
+  "bidders": [
+    {
+      "identifier": {
+        "id": "2343332322",
+        "scheme": "UA-IPN",
+        "legalName": {
+          "uk_UA": "ЕДРПОУ",
+          "en_US": "EDRPOU"
+        }
+      },
+      "address": {
+        "streetAddress": {
+          "uk_UA": "Хрещатик, 43a",
+          "en_US": "Khreschatyk, 43a"
+        },
+        "locality": {
+          "uk_UA": "Київ",
+          "en_US": "Kyiv"
+        },
+        "region": {
+          "uk_UA": "Київ",
+          "en_US": "Kyiv"
+        },
+        "postalCode": "01001",
+        "countryName": {
+          "uk_UA": "Україна",
+          "en_US": "Ukraine"
+        }
+      },
+      "contactPoint": {
+        "name": {
+          "uk_UA": "Адміністратор2",
+          "en_US": "Admin2"
+        },
+        "telephone": "+380996872350",
+        "faxNumber": "+380996872350",
+        "email": "admin@example.com"
+      }
+    }
+  ],
+  "status": "deleted",
+  "value": {
+    "amount": 10000005.01,
+    "currency": "UAH"
+  },
+  "documents": [
+    {
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRzIn0.eyJpZCI6IjdhMjIzOGI3ZWZjMzRmYjdhOWUxMmYyMGRhYTM3Y2ZhIiwic2NvcGUiOiJwdWJsaWMiLCJmaWxlbmFtZSI6ImFjdC5kb2N4IiwiZG9jdW1lbnRUeXBlIjoieF9yZWdpc3RyYXRpb25GZWVBcHByb3ZhbCIsImZvcm1hdCI6ImFwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLmRvY3VtZW50Iiwic2hhIjoiYmVjM2Q4Nzc5Mjg3NWVjNzk3ZTk5YjdlMGE1Y2I2MjZhZGI4ODM5YjQ0ZWJkYmQwZTM5YmQ3YjM5OTVlZDExOSIsImhhc2giOiJtZDU6YWY1NDliYjU1NWE4YmQwNTc4Y2ZlNDdlNDBhMDI1ZTEiLCJkYXRlQ3JlYXRlZCI6IjIwMjEtMDQtMDkgMTQ6MzI6NDcuMjA1NTA4IiwiaWF0IjoxNjE3OTc4NzY3fQ.nQfIC29InnchkxfFSP44NvI-pZm4-5AKSqKb4DizECCTCY2TyVdsPadZ4HzyEq-MCrcl30018LzUt61db_GAX3ezxqfGO8K3t5yuDN5hzxhj4Rk9X0LGXpnX3e5rxJZ6fel99Cq0hoac3QgZ22QeBAMl-ioo4qKBl7GewQDrBFeLq3nml7H_BsZoc-cR3uRxu5QMeGJnnTKXRo_VEPHdDaTCiyY3CwPVoPJBTBuzrwm58GpzsdGpm_1Z1pJLNGmZI85L9puZsv3dVVXHjguCK-0nqAP-Od24MHBIZc1_8MFChibo8ICW4bR-Z8EeqnnlKVNmUlvRRRwUZPVC4SSPliCXsN1bO61vghZqfVg0ndXVJ3ord327-xprJGxTLtqmDdOdYZd1v1aKki4H2Nabt8a3CWlDzJcNaudlqER4Rv7Wh3UlM2Jyp_fe3zhbzhPfxiFD8Pr8nOG0puabginX_zTz2Buen6QRit34MPurdOv6AW3u5uh_wCFoTLu9F70GfxODIfxFBcaGsaz3kYS8lwHVMenLgnvBUm1-JcQv7n551ffcl-bveJJdoX9aBIN4mflhFhprwf-5XgD9oxkxoklGK56eSWma6jr7u8l-O7LzvOs09Lfz03Ft-WY2fc9HbmvG88uaX-d5oZ-jOZtEfo8NfVfxN8K07i4ax0ANeeA",
+      "title": {
+        "uk_UA": "Назва",
+        "en_US": "Title"
+      },
+      "description": {
+        "uk_UA": "Опис",
+        "en_US": "Description"
+      },
+      "documentOf": "award",
+      "documentType": "act",
+      "index": 33,
+      "format": "string",
+      "language": 0
+    },
+    {
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRzIn0.eyJpZCI6ImZmYjA1YzQ1ZjEyYTRjN2FiOGNkY2U0MDQ2NzY1NTM4Iiwic2NvcGUiOiJwdWJsaWMiLCJmaWxlbmFtZSI6ImFjdC5kb2N4IiwiZG9jdW1lbnRUeXBlIjoieF9ndWFyYW50ZWVBcHByb3ZhbCIsImZvcm1hdCI6ImFwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLmRvY3VtZW50Iiwic2hhIjoiYmVjM2Q4Nzc5Mjg3NWVjNzk3ZTk5YjdlMGE1Y2I2MjZhZGI4ODM5YjQ0ZWJkYmQwZTM5YmQ3YjM5OTVlZDExOSIsImhhc2giOiJtZDU6YWY1NDliYjU1NWE4YmQwNTc4Y2ZlNDdlNDBhMDI1ZTEiLCJkYXRlQ3JlYXRlZCI6IjIwMjEtMDQtMDkgMTQ6MzM6MDQuMDQ0MjUyIiwiaWF0IjoxNjE3OTc4Nzg0fQ.nz7NJHzFe1-AFtjR0niiKOCgsZVxfNy0-0YzFNLa8b-XgoCXNJxmANOfNx71CwhDguI_3qN_1mJKufZPwDG1HojpelTTQSKUlV05VBpKjfOaVIlUhlgEOm-czAtrIj1ALbWLcqDVNVusqsb7MEILN09zSOZ5r18YMVq8fl0w2X9K3UR1_b7QC-NGWyfLWf-CNr_kJKrLBcGbWYJCxdSzw0FOQnD3G9vPycGWRRgKKAfkRnalgtEANC0bQ2Jk4cA51TS5Un6lkkxMI9aWfdjjE_s4uuLmAYsw-01D4e2fysasy3ph5ievkNUVa_Iv7pXs4CrbuguzuTmdDlHhxX3xks3X4Upr8RaIpd_EcmJy5F12sYyHfDP3TB-rWjWgHdADQMEyQryyFumDN4eNVFUREI4vsyo2KeASUUTUukxcUBvh2_0rLlEtXia49BSjSRj8T4v8wQnq4D2Y5XYOrc6bDYAPq7ijkpQU-8wiXB_dF4R8kdb6qHG6IVbMaGj1kjvAHmxufwrMS6gAae3zgPHY6XFBDjKD_xjiqBtd6Z7LNhzqEDd1LkvfNbOZxIAouYWFwjvDlmC1W_NiHHVVq-YaOaVs81ENb1nsejMG1xoSv__F4Rnus3kzeizML-b5MEN2vPWs3qGa4yVBey1abCka71_utc6maQt3h3VkKppQD1k",
+      "title": {
+        "uk_UA": "Назва",
+        "en_US": "Title"
+      },
+      "description": {
+        "uk_UA": "Опис",
+        "en_US": "Description"
+      },
+      "documentOf": "award",
+      "documentType": "act",
+      "index": 33,
+      "format": "string",
+      "language": 0
+    }
+  ]
+}

@@ -5,5 +5,6 @@ export const baseUrl = {
 }
 
 export const access_token = {
-    dev: 'auction_token'
+    dev: 'auction_token',
+    rlldev: 'test_broker_1_token'
 }

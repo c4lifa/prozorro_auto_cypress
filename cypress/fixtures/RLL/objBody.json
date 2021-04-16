@@ -1,0 +1,304 @@
+{   "title": {"uk_UA": "wewe"},
+  "relatedOrganizations": {
+    "propertyOwner": {
+      "identifier": {
+        "scheme": "UA-EDR",
+        "legalName": {
+          "uk_UA": "Duis enim in",
+          "en_US": "dolore"
+        },
+        "id": "12345678"
+      },
+      "contactPoint": {
+        "name": {
+          "uk_UA": "tempor pariatur adipisicing",
+          "en_US": "ullamco velit"
+        },
+        "email": "QyR3d4AXFjhRE@NOrjABarufOkxdFolZibKjuv.tk",
+        "telephone": "+41092604",
+        "faxNumber": "+8",
+        "url": "http://string.com"
+      },
+      "address": {
+        "streetAddress": {
+          "uk_UA": "Excepteur nulla mollit exercitation",
+          "en_US": "incididunt"
+        },
+        "locality": {
+          "uk_UA": "irure",
+          "en_US": "in dolore Excepteur fugiat"
+        },
+        "region": {
+          "uk_UA": "Полтавська область",
+          "en_US": "sed esse"
+        },
+        "countryName": {
+          "uk_UA": "Україна",
+          "en_US": "nisi id ut"
+        },
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "postalCode": "reprehenderit tempor elit irure"
+      },
+      "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+    },
+    "sellingEntity": {
+      "identifier": {
+        "scheme": "UA-EDR",
+        "legalName": {
+          "uk_UA": "laboris ipsum",
+          "en_US": "culpa id eu"
+        },
+        "id": "12345678"
+      },
+      "contactPoint": {
+        "name": {
+          "uk_UA": "dolor ut in do",
+          "en_US": "laboris dolore cillum sed adipisicing"
+        },
+        "email": "F2lABt4Q@glcUvSQRwMPigXWdcUmGP.jkl",
+        "telephone": "+87258813348",
+        "faxNumber": "+3076475893",
+        "url": "http://string.com"
+      },
+      "address": {
+        "streetAddress": {
+          "uk_UA": "cillum",
+          "en_US": "esse sint"
+        },
+        "locality": {
+          "uk_UA": "sint",
+          "en_US": "dolor"
+        },
+        "region": {
+          "uk_UA": "Хмельницька область",
+          "en_US": "deserunt dolor sed voluptate"
+        },
+        "countryName": {
+          "uk_UA": "Україна",
+          "en_US": "dolor laboris qui officia"
+        },
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "postalCode": "voluptate nostrud aliquip ut"
+      },
+      "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+    },
+    "ownershipType": "state",
+    "governer": {
+      "identifier": {
+        "scheme": "UA-EDR",
+        "legalName": {
+          "uk_UA": "exercitation occaecat ea tempor Ut",
+          "en_US": "Ut mollit elit"
+        },
+        "id": "12345678"
+      },
+      "contactPoint": {
+        "name": {
+          "uk_UA": "adipisicing eiusmod",
+          "en_US": "nulla exercitation proident irure"
+        },
+        "email": "n8VOqbT0p@NIxy.ndor",
+        "telephone": "+030",
+        "faxNumber": "+631428036",
+        "url": "http://string.com"
+      },
+      "address": {
+        "streetAddress": {
+          "uk_UA": "reprehenderi",
+          "en_US": "quis do in"
+        },
+        "locality": {
+          "uk_UA": "officia enim culpa dolor",
+          "en_US": "id dolore"
+        },
+        "region": {
+          "uk_UA": "Одеська область",
+          "en_US": "Duis pariatur proident sed"
+        },
+        "countryName": {
+          "uk_UA": "Україна",
+          "en_US": "sunt Lorem in pariatur laboris"
+        },
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"                },
+        "postalCode": "sed amet tempor occaecat"
+      },
+      "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+    },
+    "currentTenant": {
+      "identifier": {
+        "scheme": "UA-IPN-FOP",
+        "legalName": {
+          "uk_UA": "esse",
+          "en_US": "aute Duis"
+        },
+        "id": ""
+      },
+      "contactPoint": {
+        "name": {
+          "uk_UA": "velit",
+          "en_US": "occaecat proident commodo anim"
+        },
+        "email": "xVAo7VYESg36@rKjaOpqDMpSnTKbyiYBlhSZxjCIuVT.ak",
+        "telephone": "+8424",
+        "faxNumber": "+44212",
+        "url": "http://string.com"
+      },
+      "address": {
+        "streetAddress": {
+          "uk_UA": "amet nostrud deserunt m",
+          "en_US": "consequat cillum labore dolor"
+        },
+        "locality": {
+          "uk_UA": "labore culpa irure dolor",
+          "en_US": "culpa sunt"
+        },
+        "region": {
+          "uk_UA": "eaculpa et",
+          "en_US": "eu cillum"
+        },
+        "countryName": {
+          "uk_UA": "aliqua velit consequat",
+          "en_US": "in fugiat ipsum sint"
+        },
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "postalCode": "enim eli"
+      },
+      "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+    }
+  },
+  "leaseRules": {
+    "intendedUseRestrictionDescription": "non aliquip proident",
+    "additionalLeaseConditions": "nisi Excepteur",
+    "subleaseAllowed": false,
+    "intendedUseRestrictionMethod": "onlyDescribed"
+  },
+  "statusesDecisions": {
+    "listType": "Second",
+    "statusInList": "waiting",
+    "propertyOwnerApproval": {
+      "verificationPresence": true,
+      "x_verificationDocuments": "occaecat fugiat in"
+    },
+    "sellingEntityApproval": {
+      "verificationPresence": false,
+      "x_verificationDocuments": "in ut velit"
+    },
+    "governingEntityApproval": {
+      "verificationPresence": "present",
+      "x_verificationDocuments": "quis deserunt"
+    },
+    "maintenanceRepairAgreement": {
+      "verificationPresence": false,
+      "x_verificationDocuments": "velit pariatur aliqua incididunt"
+    },
+    "privatizationDecision": {
+      "verificationPresence": true,
+      "x_verificationDocuments": "esse"
+    },
+    "investmentDecision": {
+      "verificationPresence": true,
+      "x_verificationDocuments": "ex in aliqua eiusmod aliquip"
+    },
+    "heritageApproval": {
+      "verificationPresence": "present",
+      "x_verificationDocuments": "laboris commodo officia"
+    },
+    "culturalHeritageCondition": "eiusmod laborum",
+    "registrationState": "notRegistered"
+  },
+  "registryObjectItems": [
+    {
+      "basicInfo": {
+        "title": {
+          "uk_UA": "tempor reprehenderit",
+          "en_US": "commodo cupidatat exercitation eu quis"
+        },
+        "description": {
+          "uk_UA": "Lorem ex nisi in",
+          "en_US": "id dolore exercitation cupidatat dolor"
+        },
+        "classification": {
+          "scheme": "CAV",
+          "id": "04000000-8"
+        }
+      },
+      "placing": {
+        "address": {
+          "countryName": {
+            "uk_UA": "Україна",
+            "en_US": "proident"
+          },
+          "addressID": {
+            "scheme": "koatuu",
+            "id": "0110136600"
+          },
+          "streetAddress": {
+            "uk_UA": "nisi ipsum laborum quis ut",
+            "en_US": "ea non"
+          },
+          "locality": {
+            "uk_UA": "nostrud dolor enim ut",
+            "en_US": "dolor"
+          },
+          "region": {
+            "uk_UA": "Автономна Республіка Крим",
+            "en_US": "Excepteur adipisicing"
+          },
+          "postalCode": "quis adipisicing do"
+        },
+        "location": {
+          "latitude": "deserunt",
+          "longitude": "sunt in consectetur consequat",
+          "elevation": "i"
+        }
+      },
+      "itemType": "realEstate",
+      "reProps": {
+        "constructionTechnology": "monolithicFrame"
+      }
+    }
+  ],
+  "registryDecision": {
+    "verificationPresence": true,
+    "x_verificationDocuments": "dolor Excepteur"
+  },
+  "documents": [],
+  "valuesCharacteristics": {
+    "initialBookValue": {
+      "currency": "UAH",
+      "amount": 10,
+      "valueAddedTaxIncluded": true
+    },
+    "residualBookValue": {
+      "currency": "UAH",
+      "amount": 10,
+      "valueAddedTaxIncluded": true
+    },
+    "marketValue": {
+      "currency": "UAH",
+      "amount": 10,
+      "valueAddedTaxIncluded": true
+    },
+    "marketValueValuationDate": "1986-05-18T06:09:58.613Z",
+    "marketValueValuationDetails": "qui amet in",
+    "secondListMethodology": "Excepteur proident id",
+    "secondListAbsoluteValue": {
+      "currency": "UAH",
+      "amount": 10,
+      "valueAddedTaxIncluded": true
+    },
+    "secondListPercentValue": "ipsum ani",
+    "secondListDecisionDescription": "fugiat reprehe"
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "auctionPeriod": {
+    "startDate": "2021-04-15T15:04:00+00:00"
+  },
+  "sellingMethod": "legitimatePropertyLease-priorityEnglish-initial-qualification-prod",
+  "lotId": "sd",
+  "title": {
+    "uk_UA": "<script>document.body.style.backgroundColor='#f3f3f3'; alert('test');</script>",
+    "en_US": "string"
+  },
+  "description": {
+    "uk_UA": "string",
+    "en_US": "string"
+  },
+  "x_additionalInformation": {
+    "uk_UA": "string",
+    "en_US": "string"
+  },
+  "value": {
+    "currency": "UAH",
+    "amount": 3,
+    "valueAddedTaxIncluded": false
+  },
+  "valueAddedTaxCharged": false,
+  "calcOnBookValue": 0,
+  "guarantee": {
+    "currency": "UAH",
+    "amount": 2
+  },
+  "tenderAttempts": 1,
+  "accessDetails": {
+    "uk_UA": "ssss"
+  },
+  "items": [
+    {
+      "itemType": "realEstate",
+      "description": {
+        "uk_UA": "<script>document.body.style.backgroundColor='#f3f3f3'; alert('test');</script>",
+        "en_US": "string"
+      },
+      "classification": {
+        "scheme": "CAV",
+        "id": "04000000-8"
+      },
+      "location": {
+        "latitude": "sd",
+        "longitude": "sd"
+      },
+      "address": {
+        "region": {
+          "uk_UA": "Автономна Республіка Крим"
+        },
+        "countryName": {
+          "uk_UA": "Україна"
+        }
+      },
+      "reProps": {
+        "totalObjectArea": 2323.23
+      },
+      "registrationDetails": {}
+    }
+  ],
+  "minimalStep": {
+    "currency": "UAH",
+    "amount": 0.1
+  },
+  "registryId": "607854bf287dd26e6bf36390",
+  "leaseRules": {
+    "intendedUseRestrictionMethod": "onlyDescribed",
+    "intendedUseRestrictionDescription": "wewe"
+  },
+  "relatedOrganizations": {
+    "sellingEntity": {
+      "identifier": {
+        "scheme": "UA-EDR",
+        "legalName": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "id": "12345637"
+      },
+      "address": {
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "streetAddress": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "locality": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "region": {
+          "uk_UA": "Автономна Республіка Крим",
+          "en_US": "string"
+        },
+        "countryName": {
+          "uk_UA": "Україна"
+        }
+      },
+      "contactPoint": {
+        "email": "Tadmin@example.com",
+        "telephone": "+380123456789",
+        "name": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "url": "http://string.com"
+      },
+      "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+    },
+    "propertyOwner": {
+      "identifier": {
+        "scheme": "UA-EDR",
+        "legalName": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "id": "12346437"
+      },
+      "address": {
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "streetAddress": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "locality": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "region": {
+          "uk_UA": "Автономна Республіка Крим",
+          "en_US": "string"
+        },
+        "countryName": {
+          "uk_UA": "Україна"
+        }
+      },
+      "contactPoint": {
+        "email": "Tadmin@example.com",
+        "telephone": "+380123456789",
+        "name": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "url": "http://string.com"
+      },
+      "representativeInfo": "Довіреність № 123 від 22.02.2012, дійсна до 30.03.2012/Наказ № 142 від 14.12.2019/Статут ТОВ Кульбаба від 24.07.2002"
+    },
+    "ownershipType": "state",
+    "currentTenant": {
+      "identifier": {
+        "scheme": "UA-IPN-FOP",
+        "legalName": {
+          "uk_UA": "sqwewqetring",
+          "en_US": "string"
+        },
+        "id": "2343332323"
+      },
+      "address": {
+        "addressID": {
+          "scheme": "koatuu",
+          "id": "0110136600"
+        },
+        "streetAddress": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "locality": {
+          "uk_UA": "string",
+          "en_US": "string"
+        },
+        "region": {
+          "uk_UA": "Автономна Республіка Крим",
+          "en_US": "string"
+        },
+        "countryName": {
+          "uk_UA": "Україна"
+        }
+      },
+      "currentContractTime": {
+        "dateFrom": "2021-03-13T01:35:00+00:00",
+        "dateTill": "2021-03-11T01:35:00+00:00"
+      },
+      "representativeInfo": "qwewqe"        }
+  },
+  "bankAccounts": [{
+    "accountType": "advancePayment",
+    "accounts": [{
+      "accountIdentifications": [{
+        "scheme": "UA-IBAN",
+        "id": "sd123455678901234567890123456"
+      }],
+      "currency": "UAH"
+    },
+      {
+        "accountIdentifications": [{
+          "scheme": "UA-IBAN",
+          "id": "sd123455678901234567890123456"
+        }],
+        "currency": "USD"
+      }],
+    "holderType": "landlord",
+    "percent": 1
+  },
+    {
+      "accountType": "advancePayment",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-MFO",
+          "id": "123456"
+        }
+        ],
+        "currency": "UAH"
+      },
+        {
+          "accountIdentifications": [{
+            "scheme": "UA-IBAN",
+            "id": "sd123455678901234567890123456"
+          }],
+          "currency": "USD"
+        }],
+      "holderType": "balanceHolder",
+      "percent": 99
+    },
+
+    {
+      "accountType": "lease",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-EDR",
+          "id": "12345637"
+        }],
+        "currency": "UAH"
+      },
+        {
+          "accountIdentifications": [{
+            "scheme": "UA-IBAN",
+            "id": "sd123455678901234567890123456"
+          }],
+          "currency": "USD"
+        }],
+      "holderType": "landlord",
+      "percent": 99
+    },
+    {
+      "accountType": "lease",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-EDR",
+          "id": "12345637"
+        }],
+        "currency": "UAH"
+      },
+        {
+          "accountIdentifications": [{
+            "scheme": "UA-IBAN",
+            "id": "sd123455678901234567890123456"
+          }],
+          "currency": "USD"
+        }],
+      "holderType": "balanceHolder",
+      "percent": 1
+    },
+    {
+      "accountType": "securityDeposit",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-IBAN",
+          "id": "sd123455678901234567890123456"
+        }],
+        "currency": "USD"
+      }]
+    },
+    {
+      "accountType": "guarantee",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-EDR",
+          "id": "12345637"
+        }],
+        "currency": "UAH"
+      },
+        {
+          "accountIdentifications": [{
+            "scheme": "UA-IBAN",
+            "id": "sd123455678901234567890123456"
+          }],
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "accountType": "registrationFee",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-EDR",
+          "id": "12345637"
+        }],
+        "currency": "UAH"
+      }]
+    },
+    {
+      "accountType": "improvementCompensation",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-EDR",
+          "id": "12345637"
+        }],
+        "currency": "UAH"
+      },
+        {
+          "accountIdentifications": [{
+            "scheme": "UA-IBAN",
+            "id": "sd123455678901234567890123456"
+          }],
+          "currency": "USD"
+        }]
+    },
+    {
+      "accountType": "other",
+      "accounts": [{
+        "accountIdentifications": [{
+          "scheme": "UA-EDR",
+          "id": "12345637"
+        }],
+        "currency": "UAH"
+      },
+        {
+          "accountIdentifications": [{
+            "scheme": "UA-IBAN",
+            "id": "sd123455678901234567890123456"
+          }],
+          "currency": "USD"
+        }]
+    }],
+  "registrationFee": {
+    "currency": "UAH",
+    "amount": 3000
+  },
+  "valuePeriod": "month",
+  "leaseDuration": "P2Y11M",
+  "documents": [
+    {
+      "title": {
+        "uk_UA": "Назва",
+        "en_US": "Title"
+      },
+      "documentOf": "cancellation",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRzIn0.eyJpZCI6IjRhNTZiZmI3MjA3NTQzY2I4NTI4YjJjOGZmMGY5ODE4Iiwic2NvcGUiOiJwcml2YXRlIiwiZmlsZW5hbWUiOiJhY3QuZG9jeCIsImRvY3VtZW50VHlwZSI6InhfaXRlbVBsYW4iLCJmb3JtYXQiOiJhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC5kb2N1bWVudCIsInNoYSI6ImJlYzNkODc3OTI4NzVlYzc5N2U5OWI3ZTBhNWNiNjI2YWRiODgzOWI0NGViZGJkMGUzOWJkN2IzOTk1ZWQxMTkiLCJoYXNoIjoibWQ1OmFmNTQ5YmI1NTVhOGJkMDU3OGNmZTQ3ZTQwYTAyNWUxIiwiZGF0ZUNyZWF0ZWQiOiIyMDIxLTAzLTEwIDEwOjA3OjUzLjMwNDQwNyIsImlhdCI6MTYxNTM3MDg3M30.HrtKTEZ5srvwnR5da8KsgyQ-H4CAXFx_3vbBtT-F7EGDcztuxoftUF1Ki-C1Fp1ctMP4EZbSkqGLyN0JEa-LE_-aTz57mgrGvLGRfyhUhwk98w8yPsbReRGbXpS4Eacs1Vt1FxPP1b3g2q5ekv7mp3l3zHtMoYgfKgo4ngkn7s60URpzPkqHcBGUHprpRswsNw94UutDPY4kAP5Kuua-_qaJhpU9CpYTIPFt2Hxye31fl5daXkdfScCbLl1HTZsmguYE-sVdSLD1MCZbBBmz0lrjsUB1pV8irOyRL4-WDG-5glcZqvFITiUh7A-p0lGtgszZerIIajty2-1Ds_a6yrhf0K9IU8vjYrRqoxpa9vb_GhzVd8UjdX1yUj2t_KjQ3BgsHDfRiSjxkOmgMpua0JwjgSQk3vFYOcX0poybDugEOwn1-a_rwIZj4JSq5QBXu0d9PpopqsujFGoemiexK28pWA7Ntm3efoOKhhXmawQ9yFklN68aFV36q6qb3AbXhcW1vXg0RTabWvyNLdpmsEcFjtZMCxvQxwoJZtvxK1496mS6AL0Dny47ln4tuJ1EnnaWG_1sYAzi0--9R2naf7Y5uYBDnLDHgNgrkAWfJJXRHgP5TTH1gYAipn16jCsyluJ1XdwxOGjoRmID-Z97epN0LH1LUFtOU9QBA1p_K_8"
+    },
+    {
+      "title": {
+        "uk_UA": "Назва",
+        "en_US": "Title"
+      },
+      "documentOf": "cancellation",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRzIn0.eyJpZCI6ImE3ZTk1YjZlMDE3MDQxZDJiNjY1NDg0ZWZjYzU2NmRhIiwic2NvcGUiOiJwcml2YXRlIiwiZmlsZW5hbWUiOiJhY3QuZG9jeCIsImRvY3VtZW50VHlwZSI6ImNvbnRyYWN0UHJvZm9ybWEiLCJmb3JtYXQiOiJhcHBsaWNhdGlvbi92bmQub3BlbnhtbGZvcm1hdHMtb2ZmaWNlZG9jdW1lbnQud29yZHByb2Nlc3NpbmdtbC5kb2N1bWVudCIsInNoYSI6ImJlYzNkODc3OTI4NzVlYzc5N2U5OWI3ZTBhNWNiNjI2YWRiODgzOWI0NGViZGJkMGUzOWJkN2IzOTk1ZWQxMTkiLCJoYXNoIjoibWQ1OmFmNTQ5YmI1NTVhOGJkMDU3OGNmZTQ3ZTQwYTAyNWUxIiwiZGF0ZUNyZWF0ZWQiOiIyMDIxLTAzLTEwIDEwOjUwOjA0LjQwMTk4MCIsImlhdCI6MTYxNTM3MzQwNH0.Tojt8HpoKo7g_rQFkXUKUwdVCcglOrLWhTCD-2Kr1fNHbDppSM9_JaOIIZpVNUcsHM9RvUP6qeSWcsboZEPKASRg4JP0LCn9W-OP4-rVfEnmKAJ87O-3KkPs_gjurSY2VoLUtGWyyZS2oL9idBYLqhOPbA2athfwBopNw0z4NXpCs8qK2fp8jzit_zr7-1fb7Sh59HgNpftnWvB91K8Y53-0wKwwf54ru50TcX54TyDYWU9FTVzwHTt7fc_m5rdUpEZwuIxwLy68o5Lhk1HMNycYTIGwhWL0yaCw6YS_yLWA6eYBdNxLkiRWg05yihrhLVocj_1QifwMkDFwNpcGzZhRyWx6F4ZTf2qEbcLWJyJZOpvG7bt1DIYcLfSGgcIwVwXmnKb629rc7DIYwZNs-KTrDBm10H9_hmDhucX_MCWizok7CzJOVaD8tkgMDaOL8d6-FOHPvUfF8ojdhQxYW9yPlVdjtwL7qN8w5nLJBWZswm1HQIOYIbvlowO3xV9qGBwiK2kYmnBgQRB_GuY2GXDEvfiXLh2vzF53dbAAQlVXdyevV8mQVnkvtDycs32X2MjcQpbKujDSgyFY4NsAldkyvOXdBcaKcQ0gCzZR2pv5A7G1fUv1tewF_WI9FQLxOdB0gQeFMpHXH-6UdpgYVpcp3zFDKLOhoauBiyBP3Uk"
+    },
+    {
+      "title": {
+        "uk_UA": "Назва",
+        "en_US": "Title"
+      },
+      "documentOf": "cancellation",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6ImRzIn0.eyJpZCI6ImFiMzFkODVlZmNiZDQ3Nzk5NWIwMDBhZTMxMGE1OGU4Iiwic2NvcGUiOiJwcml2YXRlIiwiZmlsZW5hbWUiOiJhY3QuZG9jeCIsImRvY3VtZW50VHlwZSI6ImlsbHVzdHJhdGlvbiIsImZvcm1hdCI6ImFwcGxpY2F0aW9uL3ZuZC5vcGVueG1sZm9ybWF0cy1vZmZpY2Vkb2N1bWVudC53b3JkcHJvY2Vzc2luZ21sLmRvY3VtZW50Iiwic2hhIjoiYmVjM2Q4Nzc5Mjg3NWVjNzk3ZTk5YjdlMGE1Y2I2MjZhZGI4ODM5YjQ0ZWJkYmQwZTM5YmQ3YjM5OTVlZDExOSIsImhhc2giOiJtZDU6YWY1NDliYjU1NWE4YmQwNTc4Y2ZlNDdlNDBhMDI1ZTEiLCJkYXRlQ3JlYXRlZCI6IjIwMjEtMDMtMTAgMTA6NTE6NDYuODQxMTkwIiwiaWF0IjoxNjE1MzczNTA2fQ.B1eA5CeyaHWRkVmvjhEmCOFYeNm0lO7rwxUEc0QXM8AXt1WXhFvBHcGX1sQVL8FlJ7OUCBxfO3S7S-RBvt51S3GU93D702x0xcQDOmb_l1kfFHcMWbBXlTKg-nOgzeOPab_z7DW2VMfAlPh1cXvqid-TKDezTcbiy6yTNrvC8ocpWpqHCwLNXNDW8XIswKlNi_0guegz21SgxaNx_syfQCjh5u2xxTcogd_-XPiqRyTKtg8SVTAXrjF5UOb6EzzEhP9qj8LGvAGLDL6Br7oT3jFsoprNqvpj3ell86AriMGfmLRwBj1UbPqKo1cMNHslRllfNFZBxj6uGS1cv6-TYsuWyeB9qaihki9rNfJUSNryluYSfaN0S-7BXW5-1G1pme4AZRTe6PqYnsEx65_vwpHKaqFADm-UBO-coC1pCQeUJoE127JCNAg1GlWMDa-1v_sl3R-YceZrz0P1OPV1waGrHOidp-VOCGLZ_CZBNwRfUdHmCN2o1pk7AVNe6l8r838dH522vZK0W5KPL3FCIj-QPfRIcG8RwnpuUtorP7xtfUJaXBy_bpxQtxXHsi4KdhUQOiS0ou7GeEMx122XhNa2u5bTKEBzvVaZdj3NUkLZcRCD0_DeO0leqDi5R2W8N5SkJByTBlhFQiZKQbIP4dIiqbPVDIvg54fuksHdTBU"
+    }
+  ],
+  "currentTenantGuaranteeFee": {
+    "currency": "UAH",
+    "amount": 435
+  }
+}
